@@ -1,0 +1,15 @@
+C:\Users\LAB4\Desktop\funcionario\bin\Debug\net7.0\funcionario.exe
+C:\Users\LAB4\Desktop\funcionario\bin\Debug\net7.0\funcionario.deps.json
+C:\Users\LAB4\Desktop\funcionario\bin\Debug\net7.0\funcionario.runtimeconfig.json
+C:\Users\LAB4\Desktop\funcionario\bin\Debug\net7.0\funcionario.dll
+C:\Users\LAB4\Desktop\funcionario\bin\Debug\net7.0\funcionario.pdb
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.csproj.AssemblyReference.cache
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.AssemblyInfoInputs.cache
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.AssemblyInfo.cs
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.csproj.CoreCompileInputs.cache
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.dll
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\refint\funcionario.dll
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.pdb
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\funcionario.genruntimeconfig.cache
+C:\Users\LAB4\Desktop\funcionario\obj\Debug\net7.0\ref\funcionario.dll
